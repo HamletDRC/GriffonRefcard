@@ -1,4 +1,4 @@
 dist
 staging
 *.iws
-
+stacktrace.log
