@@ -9,6 +9,7 @@ application {
     //frameClass = 'javax.swing.JFrame'
 }
 mvcGroups {
+
     // MVC Group for "Starter"
     'Starter' {
         model = 'StarterModel'
