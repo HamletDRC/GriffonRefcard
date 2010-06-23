@@ -1,0 +1,134 @@
+Welcome to Griffon 0.3.1 - http://griffon.codehaus.org/
+Licensed under Apache Standard License 2.0
+Griffon home is set to: /home/hdarcy/bin/griffon-0.3.1
+
+Base Directory: /home/hdarcy/Dropbox/Refcard/projects/ClickerThreaded
+Running script /home/hdarcy/bin/griffon-0.3.1/scripts/ListPlugins_.groovy
+Environment set to development
+Reading remote plug-in list ...
+      [get] Getting: http://svn.codehaus.org/griffon/plugins/.plugin-meta/plugins-list.xml
+      [get] To: /home/hdarcy/.griffon/0.3.1/plugins-list-default.xml
+..............................................
+
+Plug-ins available in the Griffon.codehaus.org repository are listed below:
+-------------------------------------------------------------
+
+abeilleform-builder <0.1>            --  A Builder for Abeille Forms
+artifacts           <0.1>            --  Artifacts API enhancements
+avro                <0.1>            --  Apache Avro support
+berkeleydb          <0.1>            --  Berkeleydb support
+charts              <no releases>    --  No description available
+clojure             <0.5.1>          --  Enables Clojure
+clover              <no releases>    --  No description available
+code-coverage       <0.3.1>          --  Generates Code Coverage reports
+codenarc            <0.3>            --  CodeNarc plugin
+couchdb             <0.1>            --  Couchdb support
+countries           <no releases>    --  No description available
+coverflow           <0.2>            --  Provides a coverflow component
+css-builder         <0.5>            --  CSS for Swing
+db4o                <0.1>            --  Db4o support
+docking-frame       <0.1>            --  Griffon docking frame add-on
+domain              <no releases>    --  No description available
+domain-db4o         <no releases>    --  No description available
+domain-gsql         <no releases>    --  No description available
+easyb               <0.1.1>          --  Enables BDD testing with Easyb
+eclipse-support     <0.2.1>          --  Keeps Eclipse files up to date
+effects             <no releases>    --  No description available
+erlang              <0.1>            --  Erlang support
+fast-translate      <0.2>            --  Provides fast translation services for human language. Backed by Google Translate.
+feeds               <no releases>    --  No description available
+fest                <0.3>            --  Enables application testing with FEST
+findbugs            <0.1>            --  FindBugs plugin
+flamingo-builder    <0.2.1>          --  FlamingoBuilder Plugin
+flyingsaucer        <0.1>            --  Provides XHTML rendering capabilities
+font-jiggler        <0.2>            --  FontJiggler - Adds a Font API to Swing Components
+fx-builder          <0.3>            --  Enables JavaFX on your Griffon application
+gfx-builder         <0.3>            --  Gfx Builder Plugin
+glazedlists         <0.3>            --  GlazedLists library and components
+gmetrics            <0.1>            --  Plugin summary/headline
+gorm                <no releases>    --  No description available
+gparallelizer       <0.3>            --  GParallelizer Plugin
+gpars               <0.1>            --  GPars Plugin
+gsql                <0.3>            --  Gsql powered DataSource
+gtk                 <0.1>            --  Gtk UI toolkit plugin
+guice               <0.1.1>          --  Google Guice Plugin
+hessian             <0.2>            --  Hessian client & libraries
+i18n                <0.1>            --  I18n support
+installer           <0.4>            --  Creates launchers and installers for your Griffon application
+jabber              <0.2>            --  Jabber client & libraries
+jbusycomponent      <0.3>            --  Enhance any swing components with a 'busy' state
+jdepend             <0.2>            --  Runs JDepend metrics on your Griffon application
+jgoodies-forms      <0.2>            --  JGoodies Forms
+jide-builder        <0.3>            --  Jide Builder Plugin
+jmonkeyengine       <no releases>    --  No description available
+jmx                 <0.1>            --  JMX support
+jogl                <0.2>            --  JOGL support
+jtreemap            <0.1>            --  JTreeMap Integration
+jung                <0.2>            --  Graph visualizations and algorithms via JUNG2
+lang-bridge         <0.3>            --  Enables interoperability between JVM languages
+lookandfeel         <no releases>    --  No description available
+lookandfeel-easynth <no releases>    --  No description available
+lookandfeel-jgoodies-looks<no releases>    --  No description available
+lookandfeel-jtattoo <no releases>    --  No description available
+lookandfeel-liquidlnf<no releases>    --  No description available
+lookandfeel-metouia <no releases>    --  No description available
+lookandfeel-napkin  <no releases>    --  No description available
+lookandfeel-nimrod  <no releases>    --  No description available
+lookandfeel-officelnfs<no releases>    --  No description available
+lookandfeel-pgslaf  <no releases>    --  No description available
+lookandfeel-skinlnf <no releases>    --  No description available
+lookandfeel-squareness<no releases>    --  No description available
+lookandfeel-substance<no releases>    --  No description available
+lookandfeel-tinylaf <no releases>    --  No description available
+lookandfeel-tonic   <no releases>    --  No description available
+lwjgl               <0.2>            --  LWJGL support
+mac-menus           <no releases>    --  No description available
+macwidgets-builder  <0.3>            --  MacWidgetsBuilder Plugin
+mail                <0.2>            --  Send email from your Griffon app
+maven-publisher     <no releases>    --  No description available
+miglayout           <no releases>    --  No description available
+mongo-db            <0.1.1>          --  MongoDB plugin
+multidoc            <no releases>    --  No description available
+neo4j               <0.1>            --  Neo4j support
+neodatis            <0.1>            --  Neodatis support
+notify              <0.1>            --  Griffon Desktop Notification Plugin
+oxbow               <0.1>            --  based on Oxbow project
+p6spy               <0.1>            --  P6spy support
+pivot               <0.1>            --  Pivot UI toolkit plugin
+processing          <0.1>            --  2D/3D animations with Processing
+protobuf            <0.2>            --  Adds Protocol Buffers support
+rest                <0.3>            --  REST client libraries
+riak                <no releases>    --  No description available
+rmi                 <0.2>            --  RMI client
+scala               <0.6>            --  Brings the Scala language compiler and libraries
+serial              <0.1>            --  Serial port communication libraries
+silkicons           <no releases>    --  No description available
+splash              <0.1.4>          --  A Griffon Splash Screen Plugin
+spock               <no releases>    --  No description available
+spring              <0.2>            --  Spring framework libraries and helpers
+swingx-builder      <0.1>            --  SwingX Builder Plugin
+swingx-ws           <0.1>            --  Map visualizations with Swingx-ws
+swingxtras-builder  <0.2>            --  Swingxtras Builder Plugin
+swt                 <0.1>            --  SWT UI toolkit plugin
+tangoicons          <no releases>    --  No description available
+thrift              <0.1>            --  Apache Thrift support
+transitions         <0.2>            --  Adds animated transitions capabilities
+tray-builder        <0.3>            --  TrayBuilder Plugin
+trident-builder     <0.3>            --  Trident Builder Plugin
+validation          <0.4>            --  Griffon Validation Plugin
+wizard              <0.3>            --  Adds a Wizard facility to your Griffon apps
+worldwind           <0.2>            --  NASA WolrdWind (3D Maps)
+wsclient            <0.2.1>          --  WS client & libraries
+xmlrpc              <0.2>            --  XML-RPC client & libraries
+
+Plug-ins you currently have installed are listed below:
+-------------------------------------------------------------
+
+You do not have any plugins installed.
+
+To find more info about plugin type 'griffon plugin-info [NAME]'
+
+To install type 'griffon install-plugin [NAME] [VERSION]'
+
+For further info visit http://griffon.codehaus.org/Plugins
+
